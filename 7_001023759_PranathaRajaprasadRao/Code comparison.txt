@@ -1,0 +1,1 @@
+The major difference between Professor's code and Yang's solution is that professor's code works for all and any given sutivation but Yang's code works only for particular cases, Yang's code should be modified such that the solution works for any given sutivation.

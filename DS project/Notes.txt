@@ -1,0 +1,4 @@
+There are numerous ways to analyse GDP growth. You can take GDP growth rate as dependent variable and take others as explanatory variables such as Exports, FDI, Human development etc. There are lots of research available in literature.
+
+
+the dependent variables is the ratio of GDP per ca pita , and the explanatory variables are the driving forces of GDP in economy.then you can use OLS.
